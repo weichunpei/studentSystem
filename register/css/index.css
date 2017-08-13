@@ -1,0 +1,23 @@
+body{
+    background-color: #CCCCCC;
+    background: url("../images/lf2.jpg");
+}
+.main #title{
+    text-align: center;
+    margin: 100px 0 50px 0;
+    color: #fff;
+    font-family: "Microsoft YaHei", sans-serif;
+}
+.login_title{
+    background-color: #ffffff;
+    padding-top: 20px;
+}
+.form-horizontal{
+    margin-top: 40px;
+}
+.form-group{
+    margin: 20px 0px;
+}
+.btn{
+    width: 50%;
+}
